@@ -1,13 +1,13 @@
 <!-- Header with Typing SVG Effect -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Mash-Alt;Coding+the+Future;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Mash-Alt;Coding+the+Future;Open+Source+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <h3>🚀 Full Stack Developer | Open Source Contributor</h3>
 </div>
 
-<!-- Social Badges -->
+<!-- Social Badges (update your handles) -->
 <div align="center">
   <a href="https://twitter.com/YOUR_TWITTER_HANDLE">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
@@ -31,7 +31,7 @@
 
 ### 🛠️ Tech Stack
 
-<!-- Language and Tool Badges (You can find more on shields.io) -->
+<!-- Language and Tool Badges (Shields.io + Simple Icons) -->
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -42,19 +42,26 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
 </div>
 
+<!-- Extra: Skill Icons Row (visual icons) -->
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nodejs,docker,git&theme=dark" alt="Skills" />
+  </a>
+</div>
+
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <!-- GitHub Stats Card -->
+  <!-- GitHub Stats Card (icons on + cache bust) -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=mash-alt&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mash-alt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" />
   </a>
   
-  <!-- Most Used Languages -->
+  <!-- Most Used Languages (no icons by design; cache bust added) -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mash-alt&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mash-alt&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
   </a>
 </div>
 

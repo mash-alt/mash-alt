@@ -18,9 +18,9 @@
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently building **Nadia-Real-Estate, algae-bloom-tracker, and IntelliDots**
-- 🌱 I’m focused on improving my skills in **Data Science (Google Colab, notebooks, practical ML), full-stack TypeScript development, and mobile app development with React Native + Android Studio**
+- 🌱 I’m focused on improving my skills in **Data Science (Google Colab, notebooks, practical ML), full-stack TypeScript development, mobile app development (React Native + Android Studio), and cloud-backed apps**
 - 👯 I’m open to collaborating on **open-source and real-world products with clear user impact**
-- 💬 Ask me about **Python, JavaScript/TypeScript, React, React Native, Node.js, Java, Kotlin, C, and frontend/backend integration**
+- 💬 Ask me about **Python, JavaScript/TypeScript, React, React Native, Node.js, Java, Kotlin, C, C#, .NET, Firebase, Azure, ServiceNow, and frontend/backend integration**
 - ⚡ Fun fact: **I enjoy turning ideas into working prototypes quickly**
 ---
 
@@ -31,6 +31,8 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -38,6 +40,9 @@
   <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React Native" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/ServiceNow-00A1E0?style=flat&logo=servicenow&logoColor=white" alt="ServiceNow" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
 </div>
